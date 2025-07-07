@@ -1,0 +1,2 @@
+# Marketing-Strategy-for-Event-Database
+I built a structured event database of 113 events across Indonesia, categorized by industry (e.g., Retail, Engineering, Medical). I developed dashboards to visualize event frequency, duration, and regional spread. The insights were used to generate data-driven product recommendations and design targeted marketing strategies combining Inbound (SEO, webinars) and Outbound (catalogs, exhibitions) methods, boosting sales opportunities for Ecodoe.
